@@ -59,7 +59,6 @@ def prediccion():
         
         print("leve!")
         
-        
     elif resultado == 2:
         msg.config(text = "Muy Leve")
         
